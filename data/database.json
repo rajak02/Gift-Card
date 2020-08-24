@@ -1,0 +1,60 @@
+{
+  "userDetails": [
+    {
+      "id": 1,
+      "userName": "admin",
+      "password": "admin",
+      "email": "admin@test.com"
+    },
+    {
+      "id": 2,
+      "userName": "raja",
+      "password": "raja@123",
+      "email": "raja@test.com"
+    },
+    {
+      "id": 3,
+      "userName": "rah",
+      "password": "sdf",
+      "email": "fd"
+    }
+  ],
+  "giftCardDetails": [
+    {
+      "userId": "2",
+      "firstName": "Gatham",
+      "lastName": "K",
+      "orderedDate": "8/24/2020",
+      "mobileNumber": "6985632653",
+      "address": "Dindigul",
+      "giftCardValue": "5000",
+      "commission": 250,
+      "status": "Redeemed",
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "firstName": "asd",
+      "lastName": "asdasd",
+      "orderedDate": "8/24/2020",
+      "mobileNumber": "986635",
+      "address": "sdasd",
+      "giftCardValue": "65265",
+      "commission": 3263.25,
+      "status": "New",
+      "id": 2
+    },
+    {
+      "userId": "3",
+      "firstName": "dasd",
+      "lastName": "asd",
+      "orderedDate": "8/24/2020",
+      "mobileNumber": "345345345",
+      "address": "sdfsdf",
+      "giftCardValue": "435",
+      "commission": 21.75,
+      "status": "Out for Delivery",
+      "id": 3
+    }
+  ]
+}
